@@ -100,7 +100,9 @@ If you wanted more insight into the performance of your computer, you could anal
 Did you learn something new, or did you already know everything? If you didn't know any or some of the features listed in this article, drop me a line and let me know [here](https://andrew-tech.netlify.app/#contact).
 
 --- 
+
 Keyboard input is an important function of our computers. Read my other article about [***10 Emoji and Their Meaning***](https://andrew-tech-blog.herokuapp.com/articles/10-emoji-and-their-meaning)😎. 
+
 ---  
 
 ### ~~ Thank You For Reading
